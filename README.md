@@ -1,2 +1,2 @@
 # website
-The Perlcast.net website itself
+The new perlcast.com/Perlcast.net website itself

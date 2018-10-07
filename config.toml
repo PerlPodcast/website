@@ -1,4 +1,4 @@
-baseurl = "http://perlcast.com"
+baseurl = "http://perlcast.net"
 languageCode = "en-us"
 title = "Perlcast"
 theme = "castanet"

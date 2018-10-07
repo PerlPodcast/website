@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hosts of Perlcast on Perlcast</title>
+    <link>http://perlcast.net/host/</link>
+    <description>Recent content in Hosts of Perlcast on Perlcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
+    
+	<atom:link href="http://perlcast.net/host/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Josh McAdams</title>
+      <link>http://perlcast.net/host/jmcadams/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>http://perlcast.net/host/jmcadams/</guid>
+      <description>Josh is the original host of the Perlcast and &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lance Wicks</title>
+      <link>http://perlcast.net/host/lwicks/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>http://perlcast.net/host/lwicks/</guid>
+      <description>Lance Wicks is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mohammad Anwar</title>
+      <link>http://perlcast.net/host/manwar/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>http://perlcast.net/host/manwar/</guid>
+      <description>Mohammad is&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

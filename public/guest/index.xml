@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guests of Perlcast on Perlcast</title>
+    <link>http://perlcast.net/guest/</link>
+    <description>Recent content in Guests of Perlcast on Perlcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
+    
+	<atom:link href="http://perlcast.net/guest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jeff Horwitz</title>
+      <link>http://perlcast.net/guest/jeff_horwitz/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/jeff_horwitz/</guid>
+      <description>Jeff Horwitz</description>
+    </item>
+    
+    <item>
+      <title>Jeff Thalhammer</title>
+      <link>http://perlcast.net/guest/jeff_thalhammer/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/jeff_thalhammer/</guid>
+      <description>Jeff Thalhammer</description>
+    </item>
+    
+    <item>
+      <title>Michel Rodriguez</title>
+      <link>http://perlcast.net/guest/michel_rodriguez/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/michel_rodriguez/</guid>
+      <description>Michel Rodriguez</description>
+    </item>
+    
+    <item>
+      <title>Ross Turk</title>
+      <link>http://perlcast.net/guest/ross_turk/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/ross_turk/</guid>
+      <description>Ross Turk</description>
+    </item>
+    
+    <item>
+      <title>Stevan Little</title>
+      <link>http://perlcast.net/guest/stevan_little/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/stevan_little/</guid>
+      <description>Stevan Little</description>
+    </item>
+    
+    <item>
+      <title>Tom Limoncelli</title>
+      <link>http://perlcast.net/guest/tom_limoncelli/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/tom_limoncelli/</guid>
+      <description>Tom Limoncelli</description>
+    </item>
+    
+    <item>
+      <title>brian d foy</title>
+      <link>http://perlcast.net/guest/brian_d_foy/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/brian_d_foy/</guid>
+      <description>brian d foy</description>
+    </item>
+    
+    <item>
+      <title>matt_trout</title>
+      <link>http://perlcast.net/guest/matt_trout/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/matt_trout/</guid>
+      <description>Matt S Trout</description>
+    </item>
+    
+    <item>
+      <title>ovid</title>
+      <link>http://perlcast.net/guest/ovid/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/ovid/</guid>
+      <description>Curtis &amp;ldquo;Ovid&amp;rdquo; Poe</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perlcast</title>
+    <link>http://perlcast.net/</link>
+    <description>Recent content on Perlcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jun 2017 09:12:39 -0500</lastBuildDate>
+    
+	<atom:link href="http://perlcast.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jeff Horwitz</title>
+      <link>http://perlcast.net/guest/jeff_horwitz/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/jeff_horwitz/</guid>
+      <description>Jeff Horwitz</description>
+    </item>
+    
+    <item>
+      <title>Jeff Thalhammer</title>
+      <link>http://perlcast.net/guest/jeff_thalhammer/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/jeff_thalhammer/</guid>
+      <description>Jeff Thalhammer</description>
+    </item>
+    
+    <item>
+      <title>Michel Rodriguez</title>
+      <link>http://perlcast.net/guest/michel_rodriguez/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/michel_rodriguez/</guid>
+      <description>Michel Rodriguez</description>
+    </item>
+    
+    <item>
+      <title>Ross Turk</title>
+      <link>http://perlcast.net/guest/ross_turk/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/ross_turk/</guid>
+      <description>Ross Turk</description>
+    </item>
+    
+    <item>
+      <title>Stevan Little</title>
+      <link>http://perlcast.net/guest/stevan_little/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/stevan_little/</guid>
+      <description>Stevan Little</description>
+    </item>
+    
+    <item>
+      <title>Tom Limoncelli</title>
+      <link>http://perlcast.net/guest/tom_limoncelli/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/tom_limoncelli/</guid>
+      <description>Tom Limoncelli</description>
+    </item>
+    
+    <item>
+      <title>brian d foy</title>
+      <link>http://perlcast.net/guest/brian_d_foy/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/brian_d_foy/</guid>
+      <description>brian d foy</description>
+    </item>
+    
+    <item>
+      <title>matt_trout</title>
+      <link>http://perlcast.net/guest/matt_trout/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/matt_trout/</guid>
+      <description>Matt S Trout</description>
+    </item>
+    
+    <item>
+      <title>ovid</title>
+      <link>http://perlcast.net/guest/ovid/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/ovid/</guid>
+      <description>Curtis &amp;ldquo;Ovid&amp;rdquo; Poe</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://perlcast.net/contact/</link>
+      <pubDate>Thu, 27 Apr 2017 15:19:36 -0500</pubDate>
+      
+      <guid>http://perlcast.net/contact/</guid>
+      <description>To get in touch please email hello@perlcast.com</description>
+    </item>
+    
+    <item>
+      <title>Josh McAdams</title>
+      <link>http://perlcast.net/host/jmcadams/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>http://perlcast.net/host/jmcadams/</guid>
+      <description>Josh is the original host of the Perlcast and &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lance Wicks</title>
+      <link>http://perlcast.net/host/lwicks/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>http://perlcast.net/host/lwicks/</guid>
+      <description>Lance Wicks is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mohammad Anwar</title>
+      <link>http://perlcast.net/host/manwar/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>http://perlcast.net/host/manwar/</guid>
+      <description>Mohammad is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://perlcast.net/about/</link>
+      <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
+      
+      <guid>http://perlcast.net/about/</guid>
+      <description>The Perlcast The Perlcast is a podcast about the Perl programming language and the people and projects involved with it. Started by Josh McAdams the first shows were on Josh&amp;rsquo;s personal site and in May 2005 episode 7 was posted on the Perlcast.com domain. The show ran till July 2010 before fading out, in 2018 the podcast returns with Josh still involved and two new hosts.</description>
+    </item>
+    
+    <item>
+      <title>Stevan Little on Moose</title>
+      <link>http://perlcast.net/2010_07_12/</link>
+      <pubDate>Mon, 12 Jul 2010 17:01:27 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2010_07_12/</guid>
+      <description>Recently I talked with Stevan Little about the Moose project. You can listen to the interview, or, thanks to cPanel, you can read the transcript below. Transcript
+Josh McAdams:
+Welcome to Perlcast. This is your host, Josh McAdams. I&amp;rsquo;m here with an interview with Stevan Little, the creator of Moose.
+Heather Hendrix-McAdams:
+The transcription of this show was underwritten by cPanel. cPanel is currently hiring talented Perl developers. To Find out more, visit jobs.</description>
+    </item>
+    
+    <item>
+      <title>Jeff Thalhammer&#39;s Perl::Critic Update</title>
+      <link>http://perlcast.net/2009_05_12/</link>
+      <pubDate>Mon, 11 May 2009 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2009_05_12/</guid>
+      <description>Jeff Thalhammer spent some time talking to Perlcast about what&amp;rsquo;s new in the world of Perl::Critic. I hope that you enjoy the show.</description>
+    </item>
+    
+    <item>
+      <title>Michel Rodriguez on XML::Twig</title>
+      <link>http://perlcast.net/2009_03_25/</link>
+      <pubDate>Tue, 24 Mar 2009 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2009_03_25/</guid>
+      <description>Back at OSCON 2008, Michel Rodriguez, the creator and maintainer of XML::Twig sat down with me and talked a little about this powerful XML toolkit for Perl.</description>
+    </item>
+    
+    <item>
+      <title>Fear and Loathing in Perl</title>
+      <link>http://perlcast.net/2009_03_08/</link>
+      <pubDate>Sun, 08 Mar 2009 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2009_03_08/</guid>
+      <description>Hello and welcome back to Perlcast. After a long break, we are back and are cleaning out the archives and publishing some shows that should have been released long ago. To kick things off, we have brian d foy talking about &amp;ldquo;Fear and Loathing in Perl&amp;rdquo; where he takes us through a humorous journey though a day, one where you just can&amp;rsquo;t say no.</description>
+    </item>
+    
+    <item>
+      <title>Jeff Horwitz on mod_parrot</title>
+      <link>http://perlcast.net/2008_06_03/</link>
+      <pubDate>Tue, 03 Jun 2008 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2008_06_03/</guid>
+      <description>Wow, six months really? Okay, so maybe not that long, but Perlcast has definitely been podfading and that&amp;rsquo;s just not acceptable. Let&amp;rsquo;s start to fix that with an interview with Jeff Horwitz about mod_parrot, the last Apache module you&amp;rsquo;ll ever need. Enjoy!</description>
+    </item>
+    
+    <item>
+      <title>Time Management For System Administrators</title>
+      <link>http://perlcast.net/2008_01_26/</link>
+      <pubDate>Sat, 26 Jan 2008 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2008_01_26/</guid>
+      <description>I&amp;rsquo;d like to thank Shlomi Fish for taking the time to transcribe the Perlcast interview with Tom Limoncelli about &amp;ldquo;Time Management For System Administrators&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Logic Programming with Ovid</title>
+      <link>http://perlcast.net/2008_01_19/</link>
+      <pubDate>Sat, 19 Jan 2008 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2008_01_19/</guid>
+      <description>Back at the Nordic Perl Workshop 2007, I sat down with Ovid to talk about logic programming. Here is the audio for that interview.</description>
+    </item>
+    
+    <item>
+      <title>mod_perl</title>
+      <link>http://perlcast.net/2008_01_05/</link>
+      <pubDate>Sat, 05 Jan 2008 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2008_01_05/</guid>
+      <description>Happy New Year and welcome back to Perlcast. Though 2007 ended with a very light lineup of shows, we here at Perlcast are excited about what 2008 has to offer. There are plans for more interviews, more presentations, and possibly even some videos and video tutorials about Perl.
+Anyway, let&amp;rsquo;s get back to the podcast. Way back at OSCON 2006, I sat down with Stas Bekman and Philippe M. Chiasson to talk about mod_perl.</description>
+    </item>
+    
+    <item>
+      <title>Making My Own CPAN</title>
+      <link>http://perlcast.net/2007_09_29/</link>
+      <pubDate>Sat, 29 Sep 2007 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2007_09_29/</guid>
+      <description>brian d foy presents on Making My Own CPAN.</description>
+    </item>
+    
+    <item>
+      <title>Ross Turk of SourceForge.net</title>
+      <link>http://perlcast.net/2007_07_25/</link>
+      <pubDate>Sat, 29 Sep 2007 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2007_07_25/</guid>
+      <description>O&amp;rsquo;Reilly&amp;rsquo;s Source Convention (OSCON) 2007 is happing this week in Portland, Oregon. The conference is in it&amp;rsquo;s first day of sessions, but has really been going on for about five days because of tutorials and the Ubuntu Live conference. As always, this is a great event for catching up with what is going on in the Open Source world and meeting up with people outside of the Perl community.
+One of those people that I&amp;rsquo;ve talked with is Ross Turk, the Community Relationship Manager at SourceForge.</description>
+    </item>
+    
+    <item>
+      <title>Matt Trout on DBIx::Class</title>
+      <link>http://perlcast.net/2007_06_12/</link>
+      <pubDate>Tue, 12 Jun 2007 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2007_06_12/</guid>
+      <description>Jonathan Rockway and I talked with Matt Trout about DBIx::Class and the Perl ORM landscape.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Curtis &#34;Ovid&#34; Poe on Perl Testing</title>
+      <link>http://perlcast.net/2007_06_02/</link>
+      <pubDate>Sat, 02 Jun 2007 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2007_06_02/</guid>
+      <description>After a very long break, Perlcast is back in action. I have quite a few podcasts in the queue, most from the Nordic Perl Workshop 2007. Let&amp;rsquo;s get the first NPW interview out the door with this one with Curtis &amp;ldquo;Ovid&amp;rdquo; Poe concerning his work with Perl testing and TAP::Parser.
+You can find more information about TAP::Parser at Test Anything and you can also sign up for the mailing list.</description>
+    </item>
+    
+    <item>
+      <title>brian d foy on Benchmarking</title>
+      <link>http://perlcast.net/2007_04_08/</link>
+      <pubDate>Sun, 08 Apr 2007 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2007_04_08/</guid>
+      <description>Perlcast is back with a recording of a presentation conducted by brian d foy at a Los Angeles Perl Mongers meeting. The talk focuses on benchmarking your code and covers topics that brian included in his soon-to-be released book, &amp;ldquo;Mastering Perl&amp;rdquo;. &amp;ldquo;Mastering Perl&amp;rdquo; is a text on creating professional programs with Perl. It can be pre-ordered now at most of the major book distributors, so go check it out at your vendor of choice.</description>
+    </item>
+    
+    <item>
+      <title>Reverse Interview: Josh on YAPC::NA 2006</title>
+      <link>http://perlcast.net/2007_03_11/</link>
+      <pubDate>Sun, 11 Mar 2007 01:01:01 +0100</pubDate>
+      
+      <guid>http://perlcast.net/2007_03_11/</guid>
+      <description>A co-worker of mine, Jason Gessner, interviewed me about my experiences in co-hosting YAPC::NA 2006.
+Interview Audio
+YAPC::NA 2007</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -45,23 +45,23 @@ enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
 about_logo = "/img/perlcast_logo.png"
-copyright_notice = "Copyright 2018 [Participants on the Perlcast](https://www.perlcast.com)"
-itunes_subscribe = "http://itunes.apple.com/us/podcast/"
-android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/"
-google_play_subscribe = "https://goo.gl/app/playmusic?"
-stitcher_subscribe = "http://www.stitcher.com/podcast/"
-pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+copyright_notice = "Copyright 2019 [Participants on the Perlcast](https://www.perlcast.net)"
+#itunes_subscribe = "http://itunes.apple.com/us/podcast/"
+#android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/"
+#google_play_subscribe = "https://goo.gl/app/playmusic?"
+#stitcher_subscribe = "http://www.stitcher.com/podcast/"
+#pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "The Perlcast is a show all about the Perl Programming Language and the Perl6 Programming language, along with the people, tools, projects in the Perl community."
 media_prefix = ""
   [params.feed]
-    copyright = "Copyright 2018 the Perlcast" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2019 the Perlcast" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The Perl Programming language podcast" #no markdown or HTML
     itunes_author = "Perlcast" #no markdown or HTML
     itunes_summary = "The Perlcast is a show all about the Perl Programming Language and the Perl6 Programming language, along with the people, tools, projects in the Perl community."
     itunes_owner_name = "Perlcast"
-    itunes_owner_email = "hello@perlcast.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    itunes_image = "https://www.perlcast.com/img/perlcast-logo.png" #fqdn to the image art for your podcast
+    itunes_owner_email = "hello@perlcast.net" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.perlcast.net/img/perlcast-logo.png" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
     itunes_first_sub_category = "Software How-To"
     itunes_second_sub_category = "Tech News"
@@ -69,13 +69,13 @@ media_prefix = ""
 
   [params.social]
     github = "PerlPodcast"
-    twitter = ""
-    twitter_domain = "perlcast.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    googleplus = ""
-    pinterest = ""
-    instagram = ""
-    youtube = ""
-    linkedin = ""
+   # twitter = ""
+    twitter_domain = "perlcast.net" # This domain shows in twitter cards as "View on `twitter_domain`"
+   # googleplus = ""
+   # pinterest = ""
+   # instagram = ""
+   # youtube = ""
+   # linkedin = ""
 
   [params.authors]
     [params.authors.Josh]

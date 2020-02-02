@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Perlcast</title>
@@ -17,7 +17,7 @@
       <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
       
       <guid>http://perlcast.net/about/</guid>
-      <description>The Perlcast The Perlcast is a podcast about the Perl programming language and the people and projects involved with it. Started by Josh McAdams the first shows were on Josh&amp;rsquo;s personal site and in May 2005 episode 7 was posted on the Perlcast.com domain. The show ran till July 2010 before fading out, in 2018 the podcast returns with Josh still involved and two new hosts.</description>
+      <description>The Perlcast The Perlcast is a podcast about the Perl programming language and the people and projects involved with it. Started by Josh McAdams the first shows were on Josh&#39;s personal site and in May 2005 episode 7 was posted on the Perlcast.com domain. The show ran till July 2010 before fading out, in 2018 the podcast returns with Josh still involved and two new hosts.</description>
     </item>
     
   </channel>

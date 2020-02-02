@@ -1,5 +1,154 @@
 # Change Log
 
+## [1.1.24](https://github.com/mattstratton/castanet/tree/1.1.24) (2019-12-01)
+**Closed issues:**
+
+- Per-show Tweet link leads to wrong pre-filled text in tweet [\#203](https://github.com/mattstratton/castanet/issues/203)
+
+**Merged pull requests:**
+
+- Fix twitter url in share button [\#239](https://github.com/mattstratton/castanet/pull/239) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.23](https://github.com/mattstratton/castanet/tree/1.1.23) (2019-11-29)
+**Merged pull requests:**
+
+- Consolidate social partial [\#237](https://github.com/mattstratton/castanet/pull/237) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.22](https://github.com/mattstratton/castanet/tree/1.1.22) (2019-11-25)
+## [1.1.21](https://github.com/mattstratton/castanet/tree/1.1.21) (2019-11-25)
+**Closed issues:**
+
+- Grid layout page number buttons don’t work  [\#236](https://github.com/mattstratton/castanet/issues/236)
+
+## [1.1.20](https://github.com/mattstratton/castanet/tree/1.1.20) (2019-11-23)
+**Fixed bugs:**
+
+- \[Bug\] Trying to Switch Page Layouts [\#233](https://github.com/mattstratton/castanet/issues/233)
+
+**Merged pull requests:**
+
+- Fix pagination code on grid layout [\#235](https://github.com/mattstratton/castanet/pull/235) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.19](https://github.com/mattstratton/castanet/tree/1.1.19) (2019-11-18)
+**Closed issues:**
+
+- \[Bug\] Image Doesn't Show up on Page 2 of Episodes in List View [\#231](https://github.com/mattstratton/castanet/issues/231)
+- Replace Travis with CircleCI [\#216](https://github.com/mattstratton/castanet/issues/216)
+
+**Merged pull requests:**
+
+- Fix bug with episode banners on row view [\#232](https://github.com/mattstratton/castanet/pull/232) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.18](https://github.com/mattstratton/castanet/tree/1.1.18) (2019-11-16)
+## [1.1.17](https://github.com/mattstratton/castanet/tree/1.1.17) (2019-11-16)
+## [1.1.16](https://github.com/mattstratton/castanet/tree/1.1.16) (2019-11-16)
+## [1.1.15](https://github.com/mattstratton/castanet/tree/1.1.15) (2019-11-16)
+## [1.1.14](https://github.com/mattstratton/castanet/tree/1.1.14) (2019-11-16)
+## [1.1.13](https://github.com/mattstratton/castanet/tree/1.1.13) (2019-11-16)
+## [1.1.12](https://github.com/mattstratton/castanet/tree/1.1.12) (2019-11-16)
+## [1.1.11](https://github.com/mattstratton/castanet/tree/1.1.11) (2019-11-16)
+## [1.1.10](https://github.com/mattstratton/castanet/tree/1.1.10) (2019-11-16)
+## [1.1.9](https://github.com/mattstratton/castanet/tree/1.1.9) (2019-11-16)
+## [1.1.8](https://github.com/mattstratton/castanet/tree/1.1.8) (2019-11-16)
+## [1.1.7](https://github.com/mattstratton/castanet/tree/1.1.7) (2019-11-16)
+## [1.1.6](https://github.com/mattstratton/castanet/tree/1.1.6) (2019-11-16)
+## [1.1.5](https://github.com/mattstratton/castanet/tree/1.1.5) (2019-11-16)
+## [1.1.4](https://github.com/mattstratton/castanet/tree/1.1.4) (2019-11-16)
+## [1.1.3](https://github.com/mattstratton/castanet/tree/1.1.3) (2019-11-16)
+## [1.1.2](https://github.com/mattstratton/castanet/tree/1.1.2) (2019-11-16)
+**Merged pull requests:**
+
+- Add skeleton circleci config [\#230](https://github.com/mattstratton/castanet/pull/230) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.1](https://github.com/mattstratton/castanet/tree/1.1.1) (2019-11-16)
+**Fixed bugs:**
+
+- Drop down menu not working on iPhone  [\#228](https://github.com/mattstratton/castanet/issues/228)
+
+**Merged pull requests:**
+
+- Fix issue with navbar on mobile [\#229](https://github.com/mattstratton/castanet/pull/229) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.0](https://github.com/mattstratton/castanet/tree/1.1.0) (2019-11-11)
+**Implemented enhancements:**
+
+- Migrate from codekit to gulp [\#105](https://github.com/mattstratton/castanet/issues/105)
+
+**Fixed bugs:**
+
+- TOC in REFERENCE.md is messed up [\#223](https://github.com/mattstratton/castanet/issues/223)
+
+**Closed issues:**
+
+- \[Bug\] Can't navigate guest listing on mobile [\#217](https://github.com/mattstratton/castanet/issues/217)
+- \[BUG\] Issue generating css from scss [\#211](https://github.com/mattstratton/castanet/issues/211)
+
+**Merged pull requests:**
+
+- Move to gulp [\#224](https://github.com/mattstratton/castanet/pull/224) ([mattstratton](https://github.com/mattstratton))
+
+## [1.0.2](https://github.com/mattstratton/castanet/tree/1.0.2) (2019-11-03)
+**Closed issues:**
+
+- guid episode tag should be unique and not change [\#209](https://github.com/mattstratton/castanet/issues/209)
+
+**Merged pull requests:**
+
+- Update pagination menu on guest page for mobile [\#221](https://github.com/mattstratton/castanet/pull/221) ([mattstratton](https://github.com/mattstratton))
+
+## [1.0.1](https://github.com/mattstratton/castanet/tree/1.0.1) (2019-11-02)
+## [1.0.0](https://github.com/mattstratton/castanet/tree/1.0.0) (2019-11-02)
+**Fixed bugs:**
+
+- Theme does not work on Hugo 0.58 [\#219](https://github.com/mattstratton/castanet/issues/219)
+
+**Closed issues:**
+
+- \[Bug\] Disqus comments not working [\#212](https://github.com/mattstratton/castanet/issues/212)
+- \[Bug\] Pagination is broken on mobile and needs general improvement. [\#202](https://github.com/mattstratton/castanet/issues/202)
+
+**Merged pull requests:**
+
+- Update theme for Hugo 0.58 and above [\#220](https://github.com/mattstratton/castanet/pull/220) ([mattstratton](https://github.com/mattstratton))
+- Podlove subscribe button [\#218](https://github.com/mattstratton/castanet/pull/218) ([089](https://github.com/089))
+- Update hugo version on Netlify to 0.55.1 [\#215](https://github.com/mattstratton/castanet/pull/215) ([mattstratton](https://github.com/mattstratton))
+- Fixing disqus issues [\#213](https://github.com/mattstratton/castanet/pull/213) ([robwirving](https://github.com/robwirving))
+- Allow to specify episode guid [\#210](https://github.com/mattstratton/castanet/pull/210) ([alexmurray](https://github.com/alexmurray))
+- use global hugo function,.URL deprecated [\#207](https://github.com/mattstratton/castanet/pull/207) ([nonumeros](https://github.com/nonumeros))
+
+## [0.14.1](https://github.com/mattstratton/castanet/tree/0.14.1) (2019-04-17)
+**Merged pull requests:**
+
+- Bug Fixes  & Improved Pagination to Grid and Row Layouts [\#201](https://github.com/mattstratton/castanet/pull/201) ([vichudson1](https://github.com/vichudson1))
+
+## [0.14.0](https://github.com/mattstratton/castanet/tree/0.14.0) (2019-03-07)
+**Closed issues:**
+
+- Castanet Demo on Hugo website contains 3rd party tracking [\#197](https://github.com/mattstratton/castanet/issues/197)
+
+**Merged pull requests:**
+
+- Add Spotify subscribe button [\#200](https://github.com/mattstratton/castanet/pull/200) ([089](https://github.com/089))
+
+## [0.13.0](https://github.com/mattstratton/castanet/tree/0.13.0) (2018-11-17)
+## [0.12.0](https://github.com/mattstratton/castanet/tree/0.12.0) (2018-11-17)
+**Merged pull requests:**
+
+- Add optional explicit for the feed itself since seems itunes wants this [\#196](https://github.com/mattstratton/castanet/pull/196) ([alexmurray](https://github.com/alexmurray))
+
+## [0.11.0](https://github.com/mattstratton/castanet/tree/0.11.0) (2018-11-17)
+**Implemented enhancements:**
+
+- Feed should pull language code from config file [\#177](https://github.com/mattstratton/castanet/issues/177)
+
+**Closed issues:**
+
+- \[Bug\] Hugo warning when using archetypes that don't contain the string "date" [\#181](https://github.com/mattstratton/castanet/issues/181)
+
+**Merged pull requests:**
+
+- Use language config.toml value in RSS [\#195](https://github.com/mattstratton/castanet/pull/195) ([rajeshduggal](https://github.com/rajeshduggal))
+
 ## [0.10.0](https://github.com/mattstratton/castanet/tree/0.10.0) (2018-08-03)
 **Implemented enhancements:**
 
@@ -93,9 +242,9 @@
 - Truncate iTunes summary based on characters in feed generation [\#93](https://github.com/mattstratton/castanet/issues/93)
 - Prettify the guest page [\#122](https://github.com/mattstratton/castanet/pull/122) ([mattstratton](https://github.com/mattstratton))
 - Prettify the grid page [\#118](https://github.com/mattstratton/castanet/pull/118) ([mattstratton](https://github.com/mattstratton))
-- add soundcloud and pocketcasts subscription options in sidebar [\#109](https://github.com/mattstratton/castanet/pull/109) ([thercast](https://github.com/thercast))
-- Add direct download link for audio file [\#103](https://github.com/mattstratton/castanet/pull/103) ([thercast](https://github.com/thercast))
-- add gitlab to social parameters [\#102](https://github.com/mattstratton/castanet/pull/102) ([thercast](https://github.com/thercast))
+- add soundcloud and pocketcasts subscription options in sidebar [\#109](https://github.com/mattstratton/castanet/pull/109) ([rpodcast](https://github.com/rpodcast))
+- Add direct download link for audio file [\#103](https://github.com/mattstratton/castanet/pull/103) ([rpodcast](https://github.com/rpodcast))
+- add gitlab to social parameters [\#102](https://github.com/mattstratton/castanet/pull/102) ([rpodcast](https://github.com/rpodcast))
 
 **Fixed bugs:**
 
@@ -183,7 +332,7 @@
 - Add podcast length [\#69](https://github.com/mattstratton/castanet/pull/69) ([mattstratton](https://github.com/mattstratton))
 - Change to remove slashes [\#65](https://github.com/mattstratton/castanet/pull/65) ([mattstratton](https://github.com/mattstratton))
 - Fix broken hamburger menu [\#59](https://github.com/mattstratton/castanet/pull/59) ([mattstratton](https://github.com/mattstratton))
-- Add contributing.json \(GitMagic\) [\#56](https://github.com/mattstratton/castanet/pull/56) ([gitmagic-bot](https://github.com/gitmagic-bot))
+- Add contributing.json \(GitMagic\) [\#56](https://github.com/mattstratton/castanet/pull/56) ([ghost](https://github.com/ghost))
 - Add grid option [\#55](https://github.com/mattstratton/castanet/pull/55) ([mattstratton](https://github.com/mattstratton))
 - Add host sidebar [\#54](https://github.com/mattstratton/castanet/pull/54) ([mattstratton](https://github.com/mattstratton))
 - Make subscribe buttons look like buttons [\#53](https://github.com/mattstratton/castanet/pull/53) ([mattstratton](https://github.com/mattstratton))
@@ -224,7 +373,7 @@
 
 **Merged pull requests:**
 
-- Fix missing menu items in navigation bar [\#37](https://github.com/mattstratton/castanet/pull/37) ([thercast](https://github.com/thercast))
+- Fix missing menu items in navigation bar [\#37](https://github.com/mattstratton/castanet/pull/37) ([rpodcast](https://github.com/rpodcast))
 
 ## [v0.2.4](https://github.com/mattstratton/castanet/tree/v0.2.4) (2017-02-11)
 ## [v0.2.3](https://github.com/mattstratton/castanet/tree/v0.2.3) (2017-02-11)

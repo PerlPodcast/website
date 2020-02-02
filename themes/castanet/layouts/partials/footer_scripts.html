@@ -1,4 +1,5 @@
 <script src={{ "js/castanet-min.js" | absURL }}></script>
+<script src="/audiojs/audio.min.js"></script>
 <script>
     $("#share").jsSocials({
         shares: [
@@ -13,7 +14,7 @@
         {{ if (isset .Site.Params.social "twitter" )}}
           via: "{{ .Site.Params.social.twitter }}",       // custom twitter sharing param 'via' (optional)
         {{ end }}
-        url: "{{ .Params.permalink }}",
+        url: "{{ .Permalink }}",
         text: "{{ title .Title }}"
       },
       {

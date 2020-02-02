@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://perlcast.net/guest/brian_d_foy/</loc>
+    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
+  </url>
   
   <url>
     <loc>http://perlcast.net/guest/jeff_horwitz/</loc>
@@ -13,7 +18,22 @@
   </url>
   
   <url>
+    <loc>http://perlcast.net/guest/matt_trout/</loc>
+    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://perlcast.net/guest/michel_rodriguez/</loc>
+    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://perlcast.net/guest/ovid/</loc>
+    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://perlcast.net/</loc>
     <lastmod>2017-06-10T09:12:39-05:00</lastmod>
   </url>
   
@@ -29,21 +49,6 @@
   
   <url>
     <loc>http://perlcast.net/guest/tom_limoncelli/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://perlcast.net/guest/brian_d_foy/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://perlcast.net/guest/matt_trout/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://perlcast.net/guest/ovid/</loc>
     <lastmod>2017-06-10T09:12:39-05:00</lastmod>
   </url>
   
@@ -68,6 +73,16 @@
   </url>
   
   <url>
+    <loc>http://perlcast.net/about/</loc>
+    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://perlcast.net/about/</loc>
+    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://perlcast.net/guest/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url>
@@ -78,8 +93,8 @@
   </url>
   
   <url>
-    <loc>http://perlcast.net/about/</loc>
-    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+    <loc>http://perlcast.net/episode/</loc>
+    <lastmod>2010-07-12T17:01:27+01:00</lastmod>
   </url>
   
   <url>
@@ -153,31 +168,11 @@
   </url>
   
   <url>
-    <loc>http://perlcast.net/about/</loc>
-    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://perlcast.net/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://perlcast.net/episode/</loc>
-    <lastmod>2010-07-12T17:01:27+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://perlcast.net/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://perlcast.net/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

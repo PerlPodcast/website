@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guests of Perlcast on Perlcast</title>
@@ -10,6 +10,15 @@
     
 	<atom:link href="http://perlcast.net/guest/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>brian d foy</title>
+      <link>http://perlcast.net/guest/brian_d_foy/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/brian_d_foy/</guid>
+      <description>brian d foy</description>
+    </item>
     
     <item>
       <title>Jeff Horwitz</title>
@@ -30,12 +39,30 @@
     </item>
     
     <item>
+      <title>matt_trout</title>
+      <link>http://perlcast.net/guest/matt_trout/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/matt_trout/</guid>
+      <description>Matt S Trout</description>
+    </item>
+    
+    <item>
       <title>Michel Rodriguez</title>
       <link>http://perlcast.net/guest/michel_rodriguez/</link>
       <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
       
       <guid>http://perlcast.net/guest/michel_rodriguez/</guid>
       <description>Michel Rodriguez</description>
+    </item>
+    
+    <item>
+      <title>ovid</title>
+      <link>http://perlcast.net/guest/ovid/</link>
+      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
+      
+      <guid>http://perlcast.net/guest/ovid/</guid>
+      <description>Curtis &amp;ldquo;Ovid&amp;rdquo; Poe</description>
     </item>
     
     <item>
@@ -63,33 +90,6 @@
       
       <guid>http://perlcast.net/guest/tom_limoncelli/</guid>
       <description>Tom Limoncelli</description>
-    </item>
-    
-    <item>
-      <title>brian d foy</title>
-      <link>http://perlcast.net/guest/brian_d_foy/</link>
-      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
-      
-      <guid>http://perlcast.net/guest/brian_d_foy/</guid>
-      <description>brian d foy</description>
-    </item>
-    
-    <item>
-      <title>matt_trout</title>
-      <link>http://perlcast.net/guest/matt_trout/</link>
-      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
-      
-      <guid>http://perlcast.net/guest/matt_trout/</guid>
-      <description>Matt S Trout</description>
-    </item>
-    
-    <item>
-      <title>ovid</title>
-      <link>http://perlcast.net/guest/ovid/</link>
-      <pubDate>Sat, 10 Jun 2017 09:12:39 -0500</pubDate>
-      
-      <guid>http://perlcast.net/guest/ovid/</guid>
-      <description>Curtis &amp;ldquo;Ovid&amp;rdquo; Poe</description>
     </item>
     
   </channel>

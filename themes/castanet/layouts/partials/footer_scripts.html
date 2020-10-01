@@ -1,5 +1,4 @@
-<script src={{ "js/castanet-min.js" | absURL }}></script>
-<script src="/audiojs/audio.min.js"></script>
+<script src='{{ "js/castanet-min.js" | absURL }}'></script>
 <script>
     $("#share").jsSocials({
         shares: [
@@ -28,13 +27,36 @@
     ],
     });
 </script>
+
 <script>
-audiojs.events.ready(function() {
-  var as = audiojs.createAll({
-    imageLocation: '{{"img/player-graphics.gif" | relURL}}',
-    retinaImageLocation: '{{"img/player-graphics@2x.gif" | relURL}}',
-    swfLocation: '{{"swf/audiojs.swf" | relURL}}'
+  $(document).ready(function() {
+
+    $('.transcript').hide();
+    $(".hide_transcript").hide();
+    $(".hide_transcript").click(function () {
+    $(".transcript").hide("fast");
+    $(".show_transcript").show();
+    $(".hide_transcript").hide();
    });
- });
+
+    $(".show_transcript").click(function () {
+    $(".transcript").show(500);
+    $(".hide_transcript").show();
+    $(".show_transcript").hide();
+   });
+
+  });
+
 </script>
+
+<script>
+  var player = new MediaElementPlayer('player2', {
+      features: ['playpause', 'current', 'progress', 'duration', 'volume','speed'],
+      defaultSpeed: 1.0,
+      // other configuration elements
+  });
+</script>
+
+
+
 {{ template "_internal/google_analytics_async.html" . }}

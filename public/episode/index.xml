@@ -50,6 +50,12 @@
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Stevan Little on Moose</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Stevan Little on Moose
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Stevan Little on Moose</itunes:summary>
         <description>Stevan Little on Moose</description>
         <googleplay:description>Stevan Little on Moose</googleplay:description>
@@ -252,6 +258,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Jeff Thalhammer&#39;s Perl::Critic Update</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Jeff Thalhammer&#39;s Perl::Critic Update
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Jeff Thalhammer&#39;s Perl::Critic Update</itunes:summary>
         <description>Jeff Thalhammer&#39;s Perl::Critic Update</description>
         <googleplay:description>Jeff Thalhammer&#39;s Perl::Critic Update</googleplay:description>
@@ -270,6 +282,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Michel Rodriguez on XML::Twig</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Michel Rodriguez on XML::Twig
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Michel Rodriguez on XML::Twig</itunes:summary>
         <description>Michel Rodriguez on XML::Twig</description>
         <googleplay:description>Michel Rodriguez on XML::Twig</googleplay:description>
@@ -288,6 +306,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Fear and Loathing in Perl</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Fear and Loathing in Perl
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Fear and Loathing in Perl</itunes:summary>
         <description>Fear and Loathing in Perl</description>
         <googleplay:description>Fear and Loathing in Perl</googleplay:description>
@@ -306,6 +330,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Jeff Horwitz on Mod_parrot</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Jeff Horwitz on mod_parrot
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Jeff Horwitz on mod_parrot</itunes:summary>
         <description>Jeff Horwitz on mod_parrot</description>
         <googleplay:description>Jeff Horwitz on mod_parrot</googleplay:description>
@@ -324,6 +354,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Time Management for System Administrators</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Time Management For System Administrators
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Time Management For System Administrators</itunes:summary>
         <description>Time Management For System Administrators</description>
         <googleplay:description>Time Management For System Administrators</googleplay:description>
@@ -342,6 +378,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Logic Programming With Ovid</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Logic Programming with Ovid
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Logic Programming with Ovid</itunes:summary>
         <description>Logic Programming with Ovid</description>
         <googleplay:description>Logic Programming with Ovid</googleplay:description>
@@ -360,6 +402,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Mod_perl</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        mod_perl
+        
+        ]]></itunes:subtitle>
         <itunes:summary>mod_perl</itunes:summary>
         <description>mod_perl</description>
         <googleplay:description>mod_perl</googleplay:description>
@@ -379,6 +427,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Making My Own CPAN</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Making My Own CPAN
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Making My Own CPAN</itunes:summary>
         <description>Making My Own CPAN</description>
         <googleplay:description>Making My Own CPAN</googleplay:description>
@@ -397,6 +451,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Ross Turk of SourceForge.net</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Ross Turk of SourceForge.net
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Ross Turk of SourceForge.net</itunes:summary>
         <description>Ross Turk of SourceForge.net</description>
         <googleplay:description>Ross Turk of SourceForge.net</googleplay:description>
@@ -416,6 +476,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Matt Trout on DBIx::Class</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Matt Trout on DBIx::Class
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Matt Trout on DBIx::Class</itunes:summary>
         <description>Matt Trout on DBIx::Class</description>
         <googleplay:description>Matt Trout on DBIx::Class</googleplay:description>
@@ -434,6 +500,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Interview With Curtis &#34;Ovid&#34; Poe on Perl Testing</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Interview with Curtis &#34;Ovid&#34; Poe on Perl Testing
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Interview with Curtis &#34;Ovid&#34; Poe on Perl Testing</itunes:summary>
         <description>Interview with Curtis &#34;Ovid&#34; Poe on Perl Testing</description>
         <googleplay:description>Interview with Curtis &#34;Ovid&#34; Poe on Perl Testing</googleplay:description>
@@ -453,6 +525,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Brian D Foy on Benchmarking</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        brian d foy on Benchmarking
+        
+        ]]></itunes:subtitle>
         <itunes:summary>brian d foy on Benchmarking</itunes:summary>
         <description>brian d foy on Benchmarking</description>
         <googleplay:description>brian d foy on Benchmarking</googleplay:description>
@@ -477,6 +555,12 @@ Transcript</p>
             
               Josh McAdams</itunes:author>
           
+        <itunes:title>Reverse Interview: Josh on YAPC::NA 2006</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Reverse Interview: Josh on YAPC::NA 2006
+        
+        ]]></itunes:subtitle>
         <itunes:summary>Reverse Interview: Josh on YAPC::NA 2006</itunes:summary>
         <description>Reverse Interview: Josh on YAPC::NA 2006</description>
         <googleplay:description>Reverse Interview: Josh on YAPC::NA 2006</googleplay:description>

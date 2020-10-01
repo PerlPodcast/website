@@ -15,13 +15,14 @@
 <meta property="og:title" content="Stevan Little" />
 <meta name="twitter:title" content="Stevan Little"/>
 <meta itemprop="name" content="Stevan Little">
-<meta property="article:modified_time" content="2017-06-10 09:12:39 -0500 -0500" /><meta property="og:description" content="Stevan Little" />
+<meta property="article:published_time" content="2017-06-10T09:12:39-05:00" />
+<meta property="article:modified_time" content="2017-06-10T09:12:39-05:00" />
+<meta property="og:updated_time" content="2017-06-10T09:12:39-05:00" /><meta property="og:description" content="Stevan Little" />
     <meta name="twitter:description" content="Stevan Little" />
     <meta itemprop="description" content="Stevan Little">
 
 <meta name="twitter:domain" content="perlcast.com"/>
 <meta property="og:type" content="guest" />
-
 <meta property="og:url" content="/guest/stevan_little/" />
 
 
@@ -42,14 +43,32 @@
 <link rel="icon" href="http://perlcast.net/favicon.ico">
 
 
+
+
+
+
+
+
+
 <link href="http://perlcast.net/css/grey.css" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css?family=Lato|Raleway" rel="stylesheet">
 
 
 <link href=http://perlcast.net/css/all.css rel="stylesheet">
-
-
+<link href=http://perlcast.net/css/mediaelementplayer.min.css rel="stylesheet">
+<style>
+    .mejs__overlay-button {
+        background-image: url("/img/mejs-controls.svg");
+    }
+    .mejs__overlay-loading-bg-img {
+        background-image: url("/img/mejs-controls.svg");
+    }
+    .mejs__button > button {
+        background-image: url("/img/mejs-controls.svg");
+    }
+    </style>
+<link href=http://perlcast.net/css/speed.min.css rel="stylesheet">
 
 
 </head>
@@ -134,13 +153,14 @@
         
         
           <li>
-            <a class = "social-links" href="https://www.linkedin.com/in"><i class="fab fa-linkedin fa-2x"></i></a>
+            <a class = "social-links" href="https://www.linkedin.com/in/"><i class="fab fa-linkedin fa-2x"></i></a>
           </li>
         
         
           <li>
             <a class = "social-links" href="https://github.com/PerlPodcast"><i class="fab fa-github-square fa-2x"></i></a>
           </li>
+        
         
         
       </ul>
@@ -157,6 +177,7 @@
   </div>
 </div>
 
+
 <div class = "row">
   <div class="col-lg-8">
     <div class="row">
@@ -164,11 +185,13 @@
       <div class="col-md-8">
         <div class = "row">
           <div class="col">
-            <!-- raw HTML omitted -->
+            <p>Stevan Little</p>
+
           </div>
         </div>
         <div class = "row">
           <div class = "col guest_social_icons">
+            
             
             
             
@@ -185,70 +208,9 @@
     <div class="col-lg-4">
     <div class = "row">
       <div class="col">
-        <h3>Episodes Featuring Stevan Little</h3>
-        <div class="list-group guest_episode_list">
-            
-            
-              
-            
-              
-                
-                    <a href = "http://perlcast.net/2010_07_12/" class = "guest_page_episode_link list-group-item list-group-item-action">Stevan Little on Moose</a>
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-                
-              
-            
-              
-            </div>
+        <h3>Episodes Featuring Stevan Little</h3><div class="list-group guest_episode_list">
+          <a href = "http://perlcast.net/2010_07_12/" class = "guest_page_episode_link list-group-item list-group-item-action">Stevan Little on Moose</a>
+        </div>
       </div>
     </div>
     </div>
@@ -275,8 +237,7 @@
   </div>
 </div>
 </div>
-<script src=http://perlcast.net/js/castanet-min.js></script>
-<script src="/audiojs/audio.min.js"></script>
+<script src='http://perlcast.net/js/castanet-min.js'></script>
 <script>
     $("#share").jsSocials({
         shares: [
@@ -305,15 +266,38 @@
     ],
     });
 </script>
+
 <script>
-audiojs.events.ready(function() {
-  var as = audiojs.createAll({
-    imageLocation: '\/img\/player-graphics.gif',
-    retinaImageLocation: '\/img\/player-graphics@2x.gif',
-    swfLocation: '\/swf\/audiojs.swf'
+  $(document).ready(function() {
+
+    $('.transcript').hide();
+    $(".hide_transcript").hide();
+    $(".hide_transcript").click(function () {
+    $(".transcript").hide("fast");
+    $(".show_transcript").show();
+    $(".hide_transcript").hide();
    });
- });
+
+    $(".show_transcript").click(function () {
+    $(".transcript").show(500);
+    $(".hide_transcript").show();
+    $(".show_transcript").hide();
+   });
+
+  });
+
 </script>
+
+<script>
+  var player = new MediaElementPlayer('player2', {
+      features: ['playpause', 'current', 'progress', 'duration', 'volume','speed'],
+      defaultSpeed: 1.0,
+      
+  });
+</script>
+
+
+
 
 
 

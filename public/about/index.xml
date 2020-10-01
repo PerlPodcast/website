@@ -6,18 +6,14 @@
     <description>Recent content in Abouts on Perlcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
-    
-	<atom:link href="http://perlcast.net/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate><atom:link href="http://perlcast.net/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
       <link>http://perlcast.net/about/</link>
       <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
       
       <guid>http://perlcast.net/about/</guid>
-      <description>The Perlcast The Perlcast is a podcast about the Perl programming language and the people and projects involved with it. Started by Josh McAdams the first shows were on Josh&#39;s personal site and in May 2005 episode 7 was posted on the Perlcast.com domain. The show ran till July 2010 before fading out, in 2018 the podcast returns with Josh still involved and two new hosts.</description>
+      <description>The Perlcast The Perlcast is a podcast about the Perl programming language and the people and projects involved with it. Started by Josh McAdams the first shows were on Josh&amp;rsquo;s personal site and in May 2005 episode 7 was posted on the Perlcast.com domain. The show ran till July 2010 before fading out, in 2018 the podcast returns with Josh still involved and two new hosts.</description>
     </item>
     
   </channel>
